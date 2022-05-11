@@ -1,0 +1,32 @@
+7 can be fit in 3 bits
+8 can't be fit in 3 bits
+2 can't be fit in 1 bits
+0 can't be fit in 0 bits
+1 can be fit in 1 bits
+-4 can be fit in 3 bits
+-4 can't be fit in 2 bits
+-5 can't be fit in 3 bits
+-5 can be fit in 4 bits
+4 can't be fit in 3 bits
+4 can be fit in 4 bits
+-1 can be fit in 1 bits
+0 can be fit in 1 bits
+1 can't be fit in 1 bits
+1 can be fit in 2 bits
+-10 can be fit in 5 bits
+getu success!
+getu success!
+gets success!
+gets success!
+getu success!
+gets success!
+getu success!
+gets success!
+getu success!
+mask for 10 in newu will be 18446744073709551585
+mask for 3 in newu will be 18446744073709551609
+newu success!
+mask for 0 in newu will be 18446744073709549575
+newu success!
+mask for 29 in newu will be 18446744073709549575
+newu success!
