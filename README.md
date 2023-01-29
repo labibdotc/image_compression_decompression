@@ -1,4 +1,4 @@
-# image_compression_decompression
+# Image compression and decompression algorithm
 Algorithm compresses image by taking diagonal averages of pixels and storing every four pixels in one pixel which reduces size significantly. Most images tested don't lose more than 2%. Decompression algorithm implemented too. Have fun trying it with the display in a ssh -X. Make sure you install X-quartz :)
 <img width="1190" alt="Screenshot 2023-01-28 at 7 22 30 PM" src="https://user-images.githubusercontent.com/98433990/215297248-0eb0e645-4ca8-48cd-9cab-403856ce8ae2.png">
 <img width="1198" alt="Screenshot 2023-01-28 at 7 22 18 PM" src="https://user-images.githubusercontent.com/98433990/215297251-1a7fb41a-0bff-4f17-a782-0712a9803327.png">
